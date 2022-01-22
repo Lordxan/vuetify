@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../src/components/VDataTableNew/index.ts"],"names":["VDataTable","VVirtualDataTable"],"mappings":"SAASA,U;SACAC,iB","sourcesContent":["export { VDataTable } from './VDataTable'\nexport { VVirtualDataTable } from './VVirtualDataTable'\n"],"file":"index.mjs"}

@@ -1,23 +1,9 @@
-.DS_Store
-node_modules/
-.env
+/dev/Playground.vue
+/cypress/screenshots
 
-# IDE user config
-.vscode/
-.idea/
-.vs/
-
-# Logs
-yarn-error.log
-npm-debug.log
-lerna-debug.log
-
-# Istanbul coverage
-coverage/
-
-# cypress
-cypress/screenshots
-cypress/videos
-
-.vercel
-.now
+# Built files
+/es5/
+/lib/
+/lib-temp/
+/types-temp/
+/dist/
